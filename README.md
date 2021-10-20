@@ -27,9 +27,6 @@ Phase 2
 - [Detailed design discussion](#detailed-design-discussion)
   - [Should WASI random be async?](#should-wasi-random-be-async)
   - [Should WASI random specify a number of bits of security?](#should-wasi-random-specify-a-number-of-bits-of-security)
-- [Considered alternatives](#considered-alternatives)
-  - [[Alternative 1]](#alternative-1)
-  - [[Alternative 2]](#alternative-2)
 - [Stakeholder Interest & Feedback](#stakeholder-interest--feedback)
 - [References & acknowledgements](#references--acknowledgements)
 
