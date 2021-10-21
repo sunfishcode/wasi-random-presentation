@@ -7,9 +7,9 @@
 ///
 /// This function never fails (though it may trap), and never blocks.
 ///
-/// See the [Concepts] document for details on random data provided by
+/// See the [Definitions] document for details on random data provided by
 /// WASI Random.
 ///
-/// [Concepts] ./RandomDataConcepts.md
+/// [Definitions] ./Definitions.md
 random-bytes: function(buffer: pull-buffer<u8>)
 ```
